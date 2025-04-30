@@ -4,9 +4,7 @@ A collaborative household shopping list management system built with React. Simp
 
 ## Setup
 # 1. Clone the repository
-git clone [<repository-url>](https://github.com/J-JMN/Phase2-Group6-project.git)
-cd Phase2-Group6-project
-
+git clone https://github.com/Kipng3n0/ShoppingList
 # 2. Install dependencies
 npm install
 
@@ -28,7 +26,7 @@ Implements family-based authentication for ShopMate using a shared password syst
 
 ---
 
-## Settings Page handled by Joseph
+## Settings Page
 
 ### Overview  
 The **Settings Page** allows authenticated family members to update account credentials, manage categories, and manage group members. Access is restricted—only logged-in users can view and interact with this page; unauthenticated users are redirected to the login screen.
