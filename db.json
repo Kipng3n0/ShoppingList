@@ -18,19 +18,13 @@
   ],
   "accounts": [
     {
-      "accountName": "Group 6",
+      "accountName": "Shoplist",
       "accountPassword": "password",
       "members": [
         {
-          "name": "Joseph",
-          "email": "hermanzzjj@gmail.com",
-          "role": "owner",
-          "id": "1"
-        },
-        {
           "id": "1745757945024",
           "name": "Dennis",
-          "email": "dennissammy77@gmail.com",
+          "email": "kipngenodennis27@gmail.com",
           "role": "member"
         }
       ],
