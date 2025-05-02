@@ -4,7 +4,7 @@
       "title": "Tissue",
       "category": "groceries",
       "description": "",
-      "price": 12312,
+      "price": 50,
       "status": true,
       "priceList": [
         {
@@ -14,6 +14,21 @@
         }
       ],
       "id": 1
+    },
+    {
+      "title": "Mango",
+      "category": "groceries",
+      "description": "",
+      "price": 70,
+      "status": true,
+      "priceList": [
+        {
+          "id": "1",
+          "amount": 70,
+          "date": "2025-05-02T20:16:51.402Z"
+        }
+      ],
+      "id": 2
     }
   ],
   "accounts": [
@@ -56,6 +71,14 @@
           "quantity": 12,
           "price": 12312,
           "addedBy": "Kipngeno",
+          "status": true
+        },
+        {
+          "title": "Mango",
+          "category": "groceries",
+          "quantity": 2,
+          "price": 70,
+          "addedBy": "Dennis",
           "status": true
         }
       ],
