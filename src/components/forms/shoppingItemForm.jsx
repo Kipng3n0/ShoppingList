@@ -55,9 +55,9 @@ export default function ShoppingListForm({handleSubmit,submitBtnRef, initialValu
                 
                 if (selectedItem) {
                   console.log("Selected Item:", selectedItem);
-                  setFieldValue('title', selectedItem.title);    // update the name
-                  setFieldValue('price', selectedItem?.priceList[selectedItem?.priceList.length - 1].amount);    // update the price
-                  setFieldValue('category', selectedItem.category);  // optional
+                  setFieldValue('title', selectedItem.title);    
+                  setFieldValue('price', selectedItem?.priceList[selectedItem?.priceList.length - 1].amount);   
+                  setFieldValue('category', selectedItem.category);  
                 }
               }}
             >
