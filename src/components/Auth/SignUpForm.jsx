@@ -73,7 +73,7 @@ export default function SignUpForm() {
     <>
       <div className="text-align-center d-flex flex-column align-items-center justify-content-center w-100 my-4">
         <h4 className="mb-3">Create Account</h4>
-        <h3 className="text-muted mb-4">Join ShopMate today</h3>
+        <h3 className="text-muted mb-4">Join ShopMate today for amazing experience</h3>
       </div>
 
       {error && <Alert variant="danger">{error}</Alert>}
