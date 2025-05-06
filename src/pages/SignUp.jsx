@@ -4,7 +4,7 @@ import React from "react";
 import { Container, Row, Col, CloseButton, Carousel } from "react-bootstrap";
 
 
-//am experiencing an error when doing siguo and login same error 
+//am experiencing an error when doing signup and login same error 
 //this is the error: Failed to execute 'json' on 'Response': Unexpected end of JSON input
 export default function SignUp() {
   const carouselContent = [
